@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MyQuiz</string>
+    <string name="reg_text">Регистрируясь, вы принимаете наши Условия, Политику использования данных.</string>
+    <string name="reg_login_hint">Логин</string>
+    <string name="reg_fio_hint">Фамилия Имя</string>
+    <string name="reg_pass_hint">Пароль</string>
+    <string name="reg_rpass_hint">Повторите пароль</string>
+    <string name="reg_button">Зарегистрироваться</string>
+    <string name="reg_title">Регистрация</string>
+    <string name="auth_title">Авторизация</string>
+    <string name="auth_reg">ЗАРЕГИСТРИРОВАТЬСЯ</string>
+    <string name="auth_text">У вас ещё нет аккаунта?</string>
+    <string name="auth_button">Войти</string>
+    <string name="not_question">[Вопроса нет]</string>
+    <string name="image">TODO</string>
+    <string name="save">Сохранить</string>
+
+    <string name="variant_answer">Варианты ответа</string>
+    <string name="question_hint">Вопрос</string>
+    <string name="check_box_answer">Правильный ответ</string>
+    <string name="hint_write_answer">Введите ответ</string>
+
+    <string name="button_go">Перейти</string>
+    <string name="hint_code">Код</string>
+    <string name="play_by_code_text1">Найти тест</string>
+    <string name="play_by_code_text2">Чтобы найти тест, введите код в поле ниже</string>
+</resources>

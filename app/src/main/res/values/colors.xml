@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6202EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#B8EAFF</color>
+    <color name="colorToolbar">#FAFAFA</color>
+    <color name="colorBackground1">#00B4FF</color>
+    <color name="colorBackground2">#4FDB00FF</color>
+    <color name="colorBackground3">#1ADB00FF</color>
+    <color name="colorBackground_button">#DB00FF</color>
+    <color name="colorBackground_answer_false">#B8EAFF</color>
+    <color name="colorBackground_answer_true">#B8FFCC</color>
+    <color name="colorGrey">#939393</color>
+</resources>
